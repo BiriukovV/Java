@@ -1,6 +1,4 @@
-package ru.biriukov.com.java2_2;
-
-import java.lang.ref.SoftReference;
+package ru.biriukov.com.java1_2;
 
 public class Java2 {
 
